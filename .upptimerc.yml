@@ -3,11 +3,11 @@ owner: matheusot # Your GitHub organization or username, where this repository l
 repo: upptime-monitor # The name of this repository
 
 sites:
-  - name: Lock The Smith
+  - name: LockTheSmith
     url: https://lockthesmith.com
   - name: Terry Ironwood
     url: https://terryironwood.com
-  - name: Papa High
+  - name: PapaHigh
     url: https://thepapahigh.com
   - name: VIAMERICA
     url: https://viamerica.com.br
