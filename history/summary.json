@@ -40,19 +40,19 @@
     "url": "https://thepapahigh.com",
     "icon": "https://icons.duckduckgo.com/ip3/thepapahigh.com.ico",
     "slug": "papa-high",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 544,
-    "timeDay": 526,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "status": "up",
+    "uptime": "97.61%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
+    "time": 549,
+    "timeDay": 548,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-02-13": 1
+      "2025-02-13": 41
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://viamerica.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/viamerica.com.br.ico",
     "slug": "viamerica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 614,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "97.64%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
+    "time": 608,
+    "timeDay": 615,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 41
     }
   }
 ]
