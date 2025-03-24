@@ -9,8 +9,10 @@ sites:
     url: https://lockthesmithut.com
   - name: Terry Ironwood
     url: https://terryironwood.com
-  - name: Connect Notice
-    url: https://connectnotice.com
+  - name: Wevelop
+    url: https://wevelop.com.br
+  # - name: Connect Notice
+  #   url: https://connectnotice.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
