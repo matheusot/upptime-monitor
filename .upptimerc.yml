@@ -6,15 +6,11 @@ sites:
   - name: LockTheSmith
     url: https://lockthesmith.com
   - name: LockTheSmith UT
-    url: https://lockthesmithut.com/
+    url: https://lockthesmithut.com
   - name: Terry Ironwood
     url: https://terryironwood.com
   - Name: Connect Notice
-    url: https://connectnotice.com/
-  # - name: PapaHigh
-  #   url: https://thepapahigh.com
-  # - name: VIAMERICA
-  #   url: https://viamerica.com.br
+    url: https://connectnotice.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
