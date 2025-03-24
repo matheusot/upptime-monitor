@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 222,
-    "timeWeek": 706,
-    "timeMonth": 513,
-    "timeYear": 580,
+    "time": 581,
+    "timeDay": 351,
+    "timeWeek": 695,
+    "timeMonth": 516,
+    "timeYear": 581,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "LockTheSmith UT",
+    "url": "https://lockthesmithut.com",
+    "icon": "https://icons.duckduckgo.com/ip3/lockthesmithut.com.ico",
+    "slug": "lock-the-smith-ut",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3004,
+    "timeDay": 3004,
+    "timeWeek": 3004,
+    "timeMonth": 3004,
+    "timeYear": 3004,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +46,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 376,
-    "timeDay": 296,
-    "timeWeek": 276,
-    "timeMonth": 263,
-    "timeYear": 376,
+    "time": 372,
+    "timeDay": 260,
+    "timeWeek": 267,
+    "timeMonth": 261,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-02-27": 18
+    }
+  },
+  {
+    "name": "Connect Notice",
+    "url": "https://connectnotice.com",
+    "icon": "https://icons.duckduckgo.com/ip3/connectnotice.com.ico",
+    "slug": "connect-notice",
+    "status": "down",
+    "uptime": "12.93%",
+    "uptimeDay": "12.93%",
+    "uptimeWeek": "12.93%",
+    "uptimeMonth": "12.93%",
+    "uptimeYear": "12.93%",
+    "time": 749,
+    "timeDay": 749,
+    "timeWeek": 749,
+    "timeMonth": 749,
+    "timeYear": 749,
+    "dailyMinutesDown": {
+      "2025-03-24": 0
     }
   }
 ]
