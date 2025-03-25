@@ -60,19 +60,19 @@
     "url": "https://wevelop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/wevelop.com.br.ico",
     "slug": "wevelop",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 384,
-    "timeDay": 368,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 401,
+    "timeDay": 396,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-03-25": 0
+      "2025-03-25": 17
     }
   }
 ]
