@@ -4,10 +4,10 @@
     "url": "https://lockthesmith.com",
     "icon": "https://icons.duckduckgo.com/ip3/lockthesmith.com.ico",
     "slug": "lock-the-smith",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
@@ -15,16 +15,18 @@
     "timeWeek": 593,
     "timeMonth": 448,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 1
+    }
   },
   {
     "name": "LockTheSmith UT",
     "url": "https://lockthesmithut.com",
     "icon": "https://icons.duckduckgo.com/ip3/lockthesmithut.com.ico",
     "slug": "lock-the-smith-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,28 @@
     "timeWeek": 935,
     "timeMonth": 935,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 0
+    }
   },
   {
     "name": "Terry Ironwood",
     "url": "https://terryironwood.com",
     "icon": "https://icons.duckduckgo.com/ip3/terryironwood.com.ico",
     "slug": "terry-ironwood",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 371,
-    "timeDay": 242,
-    "timeWeek": 291,
-    "timeMonth": 268,
-    "timeYear": 371,
+    "time": 372,
+    "timeDay": 327,
+    "timeWeek": 302,
+    "timeMonth": 272,
+    "timeYear": 372,
     "dailyMinutesDown": {
+      "2025-03-26": 0,
       "2025-02-27": 18
     }
   },
@@ -60,18 +65,19 @@
     "url": "https://wevelop.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/wevelop.com.br.ico",
     "slug": "wevelop",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 399,
-    "timeDay": 378,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 370,
+    "timeDay": 308,
+    "timeWeek": 370,
+    "timeMonth": 370,
+    "timeYear": 370,
     "dailyMinutesDown": {
+      "2025-03-26": 0,
       "2025-03-25": 17
     }
   }
