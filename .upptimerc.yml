@@ -11,8 +11,12 @@ sites:
     url: https://terryironwood.com
   - name: Wevelop
     url: https://wevelop.com.br
-  # - name: Connect Notice
-  #   url: https://connectnotice.com
+  - name: Connect Notice
+    url: https://connectnotice.com
+  - name: Viamerica
+    url: https://viamerica.com.br
+  - name: PapaHigh
+    url: https://thepapahigh.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
