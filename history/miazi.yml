@@ -1,7 +1,7 @@
 url: https://miazimedia.com
-status: up
-code: 200
-responseTime: 1131
-lastUpdated: 2025-09-17T23:21:07.233Z
+status: down
+code: 500
+responseTime: 429
+lastUpdated: 2025-09-18T12:59:36.533Z
 startTime: 2025-04-14T21:42:24.216Z
 generator: Upptime <https://github.com/upptime/upptime>
