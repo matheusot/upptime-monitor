@@ -1,7 +1,7 @@
 url: https://matheusrodrigues.com.br
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 271
-lastUpdated: 2026-01-04T23:27:07.871Z
+lastUpdated: 2026-01-04T23:31:06.610Z
 startTime: 2025-09-30T04:17:53.144Z
 generator: Upptime <https://github.com/upptime/upptime>
