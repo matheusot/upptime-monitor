@@ -1,7 +1,7 @@
 url: https://wevelop.com.br
-status: up
-code: 200
-responseTime: 323
-lastUpdated: 2026-01-12T23:23:23.084Z
+status: down
+code: 504
+responseTime: 10425
+lastUpdated: 2026-01-13T11:29:58.090Z
 startTime: 2025-09-30T04:17:56.514Z
 generator: Upptime <https://github.com/upptime/upptime>
