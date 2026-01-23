@@ -170,7 +170,8 @@
     "timeMonth": 838,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2026-01-22": 1438,
+      "2026-01-23": 102,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -442,11 +443,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/locallocksmithsandy.com.ico",
     "slug": "local-locksmith-sandy",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "99.42%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "96.87%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 281,
     "timeDay": 318,
     "timeWeek": 235,
@@ -768,18 +769,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matheusrodrigues.com.br.ico",
     "slug": "matheus-rodrigues",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "98.15%",
     "time": 371,
     "timeDay": 263,
     "timeWeek": 274,
     "timeMonth": 295,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2026-01-22": 7,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -838,7 +838,8 @@
       "2025-11-15": 23,
       "2025-11-14": 17,
       "2025-11-13": 109,
-      "2025-11-12": 1
+      "2025-11-12": 1,
+      "2025-11-11": 23
     }
   },
   {
@@ -847,18 +848,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/locallocksmithsandy.com.ico",
     "slug": "sandy-local-locksmith",
     "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "97.96%",
+    "uptime": "97.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "97.89%",
     "time": 156,
     "timeDay": 129,
     "timeWeek": 135,
     "timeMonth": 138,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -915,7 +915,9 @@
       "2025-11-19": 21,
       "2025-11-18": 61,
       "2025-11-15": 23,
-      "2025-11-14": 17
+      "2025-11-14": 17,
+      "2025-11-13": 109,
+      "2025-11-12": 1
     }
   },
   {
@@ -925,9 +927,9 @@
     "slug": "terry-ironwood",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.39%",
     "time": 282,
     "timeDay": 223,
@@ -935,7 +937,6 @@
     "timeMonth": 242,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -995,7 +996,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 1,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1004,18 +1006,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/timthesafecracker.com.ico",
     "slug": "tim-the-safecracker",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "98.12%",
     "time": 289,
     "timeDay": 226,
     "timeWeek": 239,
     "timeMonth": 248,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1075,7 +1076,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 1,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1085,9 +1087,9 @@
     "slug": "wevelop",
     "status": "up",
     "uptime": "98.14%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.14%",
     "time": 465,
     "timeDay": 430,
@@ -1095,7 +1097,6 @@
     "timeMonth": 468,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1155,7 +1156,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 1,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1165,9 +1167,9 @@
     "slug": "wvlp",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.17%",
     "time": 368,
     "timeDay": 321,
@@ -1175,7 +1177,6 @@
     "timeMonth": 330,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1235,7 +1236,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 1,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1244,18 +1246,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miazimedia.com.ico",
     "slug": "miazi-media",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "98.12%",
     "time": 837,
     "timeDay": 222,
     "timeWeek": 223,
     "timeMonth": 573,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1314,7 +1315,8 @@
       "2025-11-15": 23,
       "2025-11-14": 17,
       "2025-11-13": 109,
-      "2025-11-12": 0
+      "2025-11-12": 0,
+      "2025-11-11": 23
     }
   },
   {
@@ -1323,18 +1325,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thepapahigh.com.ico",
     "slug": "the-papa-high",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "98.12%",
     "time": 280,
     "timeDay": 222,
     "timeWeek": 232,
     "timeMonth": 241,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1394,7 +1395,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 0,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1404,9 +1406,9 @@
     "slug": "viamerica",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.26%",
     "time": 533,
     "timeDay": 304,
@@ -1414,7 +1416,6 @@
     "timeMonth": 346,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1474,7 +1475,8 @@
       "2025-11-14": 17,
       "2025-11-13": 109,
       "2025-11-12": 0,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   },
   {
@@ -1484,9 +1486,9 @@
     "slug": "via-miazi",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "98.12%",
     "time": 984,
     "timeDay": 201,
@@ -1494,7 +1496,6 @@
     "timeMonth": 647,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2026-01-22": 8,
       "2026-01-21": 21,
       "2026-01-20": 44,
       "2026-01-19": 74,
@@ -1554,7 +1555,8 @@
       "2025-11-14": 17,
       "2025-11-13": 110,
       "2025-11-12": 0,
-      "2025-11-11": 23
+      "2025-11-11": 23,
+      "2025-11-09": 18
     }
   }
 ]
