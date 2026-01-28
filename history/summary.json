@@ -166,7 +166,7 @@
     "timeMonth": 829,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2026-01-28": 993,
+      "2026-01-28": 1083,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -517,19 +517,19 @@
     "url": "https://lockthesmith.com",
     "icon": "https://icons.duckduckgo.com/ip3/lockthesmith.com.ico",
     "slug": "lock-the-smith",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.90%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "97.89%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.44%",
     "time": 364,
     "timeDay": 325,
     "timeWeek": 300,
     "timeMonth": 310,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-01-28": 36,
+      "2026-01-28": 37,
       "2026-01-27": 43,
       "2026-01-26": 20,
       "2026-01-25": 24,
@@ -594,7 +594,7 @@
       "2025-11-12": 1,
       "2025-11-11": 23,
       "2025-11-09": 18,
-      "2025-11-01": 79
+      "2025-11-01": 16
     }
   },
   {
@@ -602,10 +602,10 @@
     "url": "https://lockthesmithut.com",
     "icon": "https://icons.duckduckgo.com/ip3/lockthesmithut.com.ico",
     "slug": "lock-the-smith-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "97.94%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.36%",
     "time": 622,
@@ -679,8 +679,7 @@
       "2025-11-11": 23,
       "2025-11-09": 18,
       "2025-11-01": 77,
-      "2025-10-31": 18,
-      "2025-10-23": 20
+      "2025-10-31": 18
     }
   },
   {
